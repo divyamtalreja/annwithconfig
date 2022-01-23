@@ -1,0 +1,9 @@
+tensorflow
+matplotlib
+seaborn
+numpy
+pandas
+
+
+### local packages -
+-e . # << uncomment this to install from setup.py
