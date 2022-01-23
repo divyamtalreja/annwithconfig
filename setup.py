@@ -7,11 +7,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 REPO_NAME = "annwithconfig"
 AUTHOR_USER_NAME = "divyamtalreja"
 SRC_REPO = "src"
-LIST_OF_REQUIREMENTS = [tensorflow,
-matplotlib,
-seaborn,
-numpy,
-pandas]
+LIST_OF_REQUIREMENTS = ["tensorflow","matplotlib","seaborn","numpy",
+"pandas"]
 
 
 setup(
